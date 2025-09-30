@@ -19,22 +19,22 @@ The project was developed within the Big Data course of the Master’s in Data A
 
 📊 Methodology
 
-1.Data preparation
-2.Import and merge UNSW-NB15 CSV files
-3.Handle missing values and anomalies
-4.Normalize numerical features (StandardScaler)
-5.Encode categorical features (StringIndexer + OneHotEncoder)
-6.Filtered dataset to include only malicious traffic
-7.Feature selection
-8.Pearson correlation (numerical variables)
-9.Chi-Square test (categorical variables)
-10.Selected top 15 most relevant features
-11.Modeling
-12.Implemented and compared three regression models:
-13.Linear Regression (RL)
-14.Random Forest Regressor (RFR)
-15.Gradient Boosting Trees (GBT)
-16.Evaluation metrics: RMSE, MAE, R²
+1. Data preparation
+2. Import and merge UNSW-NB15 CSV files
+3. Handle missing values and anomalies
+4. Normalize numerical features (StandardScaler)
+5. Encode categorical features (StringIndexer + OneHotEncoder)
+6. Filtered dataset to include only malicious traffic
+7. Feature selection
+8. Pearson correlation (numerical variables)
+9. Chi-Square test (categorical variables)
+10. Selected top 15 most relevant features
+11. Modeling
+12. Implemented and compared three regression models:
+13. Linear Regression (RL)
+14. Random Forest Regressor (RFR)
+15. Gradient Boosting Trees (GBT)
+16. Evaluation metrics: RMSE, MAE, R²
 
 Results
 
